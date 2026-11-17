@@ -21,9 +21,16 @@ Soy Ingeniero de Sistemas con experiencia en infraestructura, redes y desarrollo
 
 ## 📅 Progreso
 
-| Semana | Qué aprendí | Proyecto |
+| Día | Qué aprendí | Proyecto |
 |---|---|---|
-| 1 | Instalación de .NET 10, primer programa, variables y tipos de datos | [`HolaMundo`](./HolaMundo) |
+| 0 | Instalación de .NET 10 y VS Code, primer programa | [`HolaMundo`](./HolaMundo) |
+| 1 | Variables e interpolación de cadenas | [`Dia01`](./Dia01) |
+| 2 | Tipos de datos: `string`, `char`, `int`, `decimal` y `bool` (con la ficha técnica de mi tesis VLASS) | [`Dia02`](./Dia02) |
+
+### 🏅 Módulos aprobados en Microsoft Learn
+
+- ✅ Escritura del primer código de C#
+- ✅ Almacenamiento de datos con variables en C#
 
 ## 📁 Estructura
 
@@ -31,8 +38,10 @@ Cada carpeta es un proyecto de consola independiente:
 
 ```
 aprendiendo-csharp/
-├── HolaMundo/        → mi primer programa en C#
-└── ...               → un proyecto por tema o reto
+├── HolaMundo/   → mi primer programa en C#
+├── Dia01/       → variables e interpolación
+├── Dia02/       → tipos de datos (ficha de VLASS)
+└── ...          → un proyecto por tema o reto
 ```
 
 ## ▶️ Cómo correr un proyecto
