@@ -26,6 +26,10 @@ Soy Ingeniero de Sistemas con experiencia en infraestructura, redes y desarrollo
 | 0 | Instalación de .NET 10 y VS Code, primer programa | [`HolaMundo`](./HolaMundo) |
 | 1 | Variables e interpolación de cadenas | [`Dia01`](./Dia01) |
 | 2 | Tipos de datos: `string`, `char`, `int`, `decimal` y `bool` (con la ficha técnica de mi tesis VLASS) | [`Dia02`](./Dia02) |
+| 3 | Secuencias de escape (`\n`, `\t`) y cadenas literales con `@` (tarjeta de presentación) | [`Dia03`](./Dia03) |
+| 4 | Decisiones con `if` / `else if` / `else` y operadores lógicos `&&` y `\|\|` (nivel de entrenamiento Hyrox) | [`Dia04`](./Dia04) |
+| 5 | Bucles: `for`, `while`, `do-while` y `foreach` | [`Dia05`](./Dia05) |
+| 6 | Arrays (tamaño fijo) vs `List<T>` (tamaño dinámico): sumar, ordenar, buscar, agregar y quitar | [`Dia06`](./Dia06) |
 
 ### 🏅 Módulos aprobados en Microsoft Learn
 
@@ -41,6 +45,10 @@ aprendiendo-csharp/
 ├── HolaMundo/   → mi primer programa en C#
 ├── Dia01/       → variables e interpolación
 ├── Dia02/       → tipos de datos (ficha de VLASS)
+├── Dia03/       → secuencias de escape y cadenas literales
+├── Dia04/       → decisiones (if / else)
+├── Dia05/       → bucles
+├── Dia06/       → arrays y listas
 └── ...          → un proyecto por tema o reto
 ```
 
